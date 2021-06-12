@@ -21,6 +21,7 @@ form{
     width: 60vw;
     margin-top: 12vh;
     display:grid;
+    border: 2px solid green;
 }
 
 .wrapper{
@@ -33,6 +34,5 @@ form{
 }
 
 .gridbox{
-    background-color: blue;
-    border: 2px solid red;
+    background-color: white;
   }
