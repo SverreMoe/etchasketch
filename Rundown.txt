@@ -1,0 +1,6 @@
+Create etch a sketch
+
+#1 dynamically set up a grid of 16*16 boxes using only javascript.
+    #2 tell js to create 16 divs with a class. 
+        #for loop? How to use js with .css grid
+
